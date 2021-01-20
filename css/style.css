@@ -15,6 +15,13 @@ body {
   letter-spacing: var(--text-letter-spacing);
   width: 1600px;
 }
+.lists{
+  list-style: none;
+
+}
+.links{
+  text-decoration: none;
+}
 
 /*=========HEDER==========*/
 .header {
@@ -242,6 +249,7 @@ body {
   outline: 1px solid tomato;
   align-items: center;
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 .team-container {
   width: 1170px;
@@ -251,7 +259,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  margin-bottom: 94px;
+ 
 }
 .team-list {
   margin: 0;
@@ -323,10 +331,13 @@ body {
   margin-bottom: 94px;
 }
 .galery-section{
-  width: 1170px;
+  width: 1200px;
   outline: 1px solid sienna;
   margin-left: auto;
   margin-right: auto;
+  galery-section:not(nth-last-chail){
+    
+  }
 }
 .portfolio-galery-list {
   padding: 0px;
