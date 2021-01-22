@@ -21,6 +21,18 @@ body {
 .links {
   text-decoration: none;
 }
+img {
+  display: block;
+}
+h1,
+h2,
+h2,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+}
 
 /*=========HEDER==========*/
 .header {
@@ -70,7 +82,6 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
-  margin-right: 331px;
 }
 
 .nav-list-itme {
@@ -104,9 +115,9 @@ body {
 }
 
 .contact-list {
-  margin: 0;
   padding: 0;
   justify-content: center;
+  margin-left: auto;
 }
 
 .contact-list-itme {
