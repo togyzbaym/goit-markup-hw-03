@@ -315,7 +315,9 @@ ul {
 .footer .logo-link {
   margin-bottom: 20px;
 }
-
+.footer .logo-part-name {
+  color: #ffffff;
+}
 .address-link {
   font-weight: normal;
   font-style: normal;
