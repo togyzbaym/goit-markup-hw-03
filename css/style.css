@@ -142,7 +142,6 @@ ul {
 
 /*=========HERO===========*/
 .hero {
-  width: 1600px;
   height: 600px;
   background-color: #2f303a;
   text-align: center;
@@ -200,7 +199,6 @@ ul {
 
 /*===========TEXT SECTION======*/
 .text-section {
-  width: 1600px;
   height: 195px;
   display: flex;
   padding-top: 94px;
@@ -242,7 +240,6 @@ ul {
 
 /*========SERVISES============*/
 .servises-section {
-  width: 1600px;
   height: 574px;
   padding-top: 94px;
   padding-bottom: 94px;
@@ -278,7 +275,6 @@ ul {
 
 /*==============TEAM ===================*/
 .team-section {
-  width: 1600px;
   background-color: #f5f4fa;
 
   height: 648px;
@@ -307,7 +303,6 @@ ul {
 
 /*=========fOOTER============*/
 .footer {
-  width: 1600px;
   height: 250px;
   background-color: #2f303a;
   padding-top: 60px;
