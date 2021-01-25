@@ -17,7 +17,6 @@ body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   letter-spacing: var(--text-letter-spacing);
-  width: 1600px;
 }
 .lists {
   list-style: none;
@@ -142,7 +141,6 @@ ul {
 
 /*=========HERO===========*/
 .hero {
-  width: 1600px;
   height: 600px;
   background-color: #2f303a;
   text-align: center;
@@ -200,7 +198,6 @@ ul {
 
 /*===========TEXT SECTION======*/
 .text-section {
-  width: 1600px;
   height: 195px;
   display: flex;
   padding-top: 94px;
@@ -242,7 +239,7 @@ ul {
 
 /*========SERVISES============*/
 .servises-section {
-  width: 1600px;
+  height: 574px;
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -278,7 +275,7 @@ ul {
 /*==============TEAM ===================*/
 .team-section {
   background-color: #f5f4fa;
-  width: 1600px;
+
   height: 648px;
   /*outline: 1px solid tomato;*/
   padding-top: 94px;
@@ -300,11 +297,11 @@ ul {
 }
 .team-list-itme {
   margin: 15px;
+  outline: 1px solid #ececec;
 }
 
 /*=========fOOTER============*/
 .footer {
-  width: 1600px;
   height: 250px;
   background-color: #2f303a;
   padding-top: 60px;
@@ -371,7 +368,6 @@ ul {
   border-bottom: 1px solid #ececec;
 }
 .portfolio-section {
-  width: 1600px;
   padding-top: 94px;
 }
 .portfolio-container {
