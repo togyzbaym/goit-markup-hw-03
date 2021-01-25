@@ -147,12 +147,12 @@ ul {
   background-color: #2f303a;
   text-align: center;
   padding-top: 200px;
-  padding-bottom: 280;
+  padding-bottom: 200px;
 }
 
 .hero-container {
   width: 1200px;
-  height: 600px;
+
   padding: 0 15px;
   /*outline: 2px solid tomato;*/
   margin-left: auto;
@@ -247,8 +247,8 @@ ul {
   padding-bottom: 94px;
 }
 .servises-container {
-  display:flex;
-  flex-wrap:wrap;
+  display: flex;
+  flex-wrap: wrap;
   width: 1200px;
   padding: 0px -15px;
   outline: 1px solid #7adf27;
@@ -266,9 +266,9 @@ ul {
   margin-right: auto;
   margin-bottom: 50px;
 }
-.servises-list{
-  display:flex;
-  flex-wrap:wrap;
+.servises-list {
+  display: flex;
+  flex-wrap: wrap;
 }
 .servises-list-itme {
   margin: 15px;
@@ -295,7 +295,7 @@ ul {
 }
 .team-list {
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   margin: -15px;
 }
 .team-list-itme {
@@ -368,19 +368,19 @@ ul {
 
 /*========PORTFOLIO============*/
 .portfolio .header {
-  border-bottom: 1px solid #ff0000;
+  border-bottom: 1px solid #ececec;
 }
 .portfolio-section {
   width: 1600px;
-  border-top: 1px solid #ff0000;
+  border-top: 1px solid #ececec;
   padding-top: 94px;
 }
 .portfolio-container {
-  display:flex;
-   flex-wrap:wrap;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   width: 1200px;
-  padding: 0 15px; 
+  padding: 0 15px;
   /* outline: 1px solid #72ec0d;*/
   margin-left: auto;
   margin-right: auto;
@@ -420,18 +420,17 @@ ul {
 
 .galery-container {
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   flex-direction: row;
   /*outline: 1px solid sienna;*/
   font-size: 0px;
 }
 .portfolio-galery-list {
-  display:flex;
-  flex-wrap:wrap;
+  display: flex;
+  flex-wrap: wrap;
   margin: -15px;
 }
 .galery-list-itme {
-  
   margin: 15px;
   outline: 1px solid #eeeeee;
 }
@@ -439,14 +438,14 @@ ul {
 /*============COMPANENTS==========*/
 .forth-title {
   font-weight: 500;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.187;
   color: var(--titles-color);
   margin-bottom: 10px;
 }
 
 .list-name {
-  padding: 30px;
+  padding: 20px;
 }
 
 .sub-title {
