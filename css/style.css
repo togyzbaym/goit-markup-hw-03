@@ -442,6 +442,9 @@ ul {
 }
 
 .list-name {
+  padding: 30px;
+}
+.galery-list-itme .list-name {
   padding: 20px;
 }
 
