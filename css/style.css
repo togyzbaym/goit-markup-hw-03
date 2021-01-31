@@ -1,5 +1,4 @@
 html {
-  display: flex;
   justify-content: center;
 }
 :root {
@@ -45,7 +44,6 @@ ul {
 
 /*=========HEDER==========*/
 .header {
-  width: 1600px;
   height: 80px;
   padding-top: 24px;
   padding-bottom: 25px;
@@ -369,7 +367,6 @@ ul {
   border-bottom: 1px solid #ececec;
 }
 .portfolio-section {
-  width: 1600px;
   padding-top: 94px;
 }
 .portfolio-container {
